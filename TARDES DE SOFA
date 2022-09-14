@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://www.imdb.com/title/tt0371746/" group-title="MARVEL" ,Iron Man(2008)
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo_W8DLKDeKv9dyzE6p85fklgpgMblgei5oU7ljL-cWxMgbsKkrEJzxoVV&s" group-title="MARVEL" ,Iron Man(2008)
 https://s18.upstreamcdn.co/hls/w47ryahvqvbnx2nrozt2cafzkbfsvviemjv6jqian7yxbe6zm7comfnj4omq/index-v1-a1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHIWx6mSuI0w7_Rr1KBXnji1cFEqnb5L5Qpfijpp9&s" group-title="MARVEL" ,El Increíble Hulk (2008)
 https://s21.upstreamcdn.co/hls/w47ryfxuqvbnx2nrozt2cqvek4osdkfmuavuzihldfkvgjtvcm23p46pw4na/index-v1-a1.m3u8
-#EXTINF:0 tvg-logo="https://www.filmaffinity.com/es/film250528.html" group-title="MARVEL" ,Iron Man 2 (2010) 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTloD0ycga7BfllH4_NHCQPt7mg-a4I4vcHyf561SgsWIhcuUvebM0rLyPt&s" group-title="MARVEL" ,Iron Man 2 (2010) 
 https://s14.upstreamcdn.co/hls/w47rytxvqvbnx2nrozt2cch7blgzvhigoxdw5wfl7dqljz5bgqkdxwbq4soa/index-v1-a1.m3u8
