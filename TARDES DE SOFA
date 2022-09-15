@@ -24,7 +24,7 @@ https://s62.upstreamcdn.co/hls/w47ry4q7fjb5x2nro352quxylbsvq2an5lm2ipinzzhxy33bg
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPmMJDEuHCv1OuOiWg-A-TkQr3vjBwXqOP0bVxr1nDWn6o78Jt3QYIi4D&s" group-title="MARVEL" ,Ant-Man (2015)  
 https://s93.upstreamcdn.co/hls/w47rzs2pcvb5x2nro2g2qcnci7imw2mvpguoqsau5pttu266cy2fx2s7kyka/index-v1-a1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDVKOVXvwJMCEzFDZrVwgCilWASK1l1s9mS8KgpYX5VH7bxFgeJegN4NSR&s" group-title="MARVEL" ,Capitán América: Civil War (2016)  
-https://cloud-s8091-48-224.spcdn.cc/h75auk5i7xekalhuln3tekgabmldkw67h4ejx6issmak623qwesklnonfgkq/v.mp4
+https://cloud-s7294-109-109.spcdn.cc/h75bbzwpe3ekalhuloydc6wobzsyxy33w7ey3yziolvuzqwsoex6fesc4w3q/v.mp4
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Q98D9jYdxY3EiqSq9Ui1exi8EQk2xu6NkO9HoPnX4V0gio2QuyRXlZWE&s" group-title="MARVEL" ,Doctor Strange (2016) 
 https://s33.upstreamcdn.co/hls/w47ryrml3vbnx2nro2f24bfmkeivrl2qpbzl57t6faon6rcozovqihc4xuga/index-v1-a1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjOmjTPymhEYVKNiyjXY2hrpoLr0-HGVspXhzF6LFAtlnYM_iuH6iCqoY&s" group-title="MARVEL" ,Guardianes de la Galaxia 2 (2017) 
@@ -39,3 +39,73 @@ https://s72.upstreamcdn.co/hls/w47ryvcyqjbnx2nro3dkau55jkv3nm576oambapmqd6wfcia3
 https://s18.upstreamcdn.co/hls/w47rzrnrr5bnx2nro3wkaaf7kihl6x7pa5prgjubna5plsnjyh4ucltlmpga/index-v1-a2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FZjUdeY5dtNHjXO-kDhxRUVtfSe1fAQI4ao-qzJYUwCGOr2ZNMog9yJl&s" group-title="MARVEL" ,Ant-Man y la Avispa (2018)
 https://s99.upstreamcdn.co/hls/w47rznzehjbnx2nrozh2ib5tkegcxmjduix5geadh6vdrhjp3p2h7un5w3la/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yVhfNMhvBlTFfoRdVKMlM37HM1HUF5l_37QpK2c15e0JIa72jpjFsx8L&s" group-title="MARVEL" ,Capitana Marvel (2019)
+https://s96.upstreamcdn.co/hls/w47ryvt5fzb5x2nro3bkqaxzj2dhqnviz3eyjhs7jxubtqsrho2vxtfiyh2a/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_9u5LJkRBlJePslm5MEWL1CvxdgqffxULAioRjSAXHPvpiDPndUi6K0Ix&s" group-title="MARVEL" ,Vengadores: Endgame (2019)
+https://s98.upstreamcdn.co/hls/w47ryeyt2vbnx2nrozl22u53jv3kxem3ihx7bih3lwayk6p65eh7f7rjv3nq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXohWK4lsZRIuGqqDm3K1u9w3uMTOq34iasmFYbqgLCoUnTnQ_oxcDUASYnQ&s" group-title="MARVEL" ,Spider-Man: Lejos de casa (2019)
+https://s96.upstreamcdn.co/hls/w47rynwy4jbnx2nro3l22xvzlrc56x3tqkg3mci5kjhrxnpd6xo2qj4xukpq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQEofgoVKZ8MpgPFaAzjyMzs4ApEf2hWRkhM4Qztj-lcaBDfEAIJc&usqp=CAE&s" group-title="MARVEL" ,Viuda Negra (2021)
+https://s93.upstreamcdn.co/hls/w47ry2i6xrbnx2nrozxk6rnkkpcwecybkvfsoag7gfcbzycxwazhu6mm5sva/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHIFpYkeIXWmTJnnKZcu78tTrsz2ux9r0eJy_8d5XmkDfltMUH9wVvDQY4&s" group-title="MARVEL" ,Shang-Chi y la Leyenda de los Diez Anillos (2021)
+https://s92.upstreamcdn.co/hls/w47ryjh425bnx2nroztk2bfrkkrkxqwq5loljat7i6cqdprau4m23lx2f2ba/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUKw1pkXHOOIh5IzZfD48Dl1X32-LRpf1ltTdMC5t&s" group-title="MARVEL" ,Eternals (2021)
+https://s33.upstreamcdn.co/hls/w47rzbto7nbnx2nrozqkurhtksnoa426sil3zpvj45qge6vfnzbcbgipb75q/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_Sb_jUo_ji2Kn6ckDZv4L2q6ROBOp9kFME4tBuvLh6oKPfBha9wP9Uo2&s" group-title="MARVEL" ,Spider-Man: No Way Home (2021)
+https://s31.upstreamcdn.co/hls/w47rzm56dzb5x2nro3rkwq53bau6tar3i6dpgtxozhz4ib3y4fnn3yulumoq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHErGqeHD5f60r4WXbzjjRu-O9H8ASymWZ7P-Pr_4&s" group-title="MARVEL" ,Doctor Strange en el Multiverso de la Locura (2022)
+https://s12.upstreamcdn.co/hls/w47rzpcxcrb5x2nro2ikqbnbjouwpwxzt57jvmf3p6ph7ivbtoffowdyzvra/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Z68L6DxP8gw5yHKtPEkNZME_-ZQy1Xai_bH79yW-57_vdB1X9tOTSOAH&s" group-title="MARVEL" ,Thor: Love and Thunder (2022) 
+https://s72.upstreamcdn.co/hls/w47rzep2erb5x2nro252sx5ab33kev4rtlpuawm7hiw6l6j3m2iduyq5hsiq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*01
+https://s31.upstreamcdn.co/hls/w47ryehsonbnx2nroydkaqh6k2jnivr5z3glws32r3h2pea5zbum2tsc3i3q/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*02
+https://s94.upstreamcdn.co/hls/w47rz3isu5bnx2nro3sk4rnebt7xfjmglzq3ia32bx7piiu3j2loj4iptzna/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*03
+https://s87.upstreamcdn.co/hls/w47ry2xsonbnx2nroydkaq5hb47cga77fhj74s4i7uni2ledy4hyzvkbjpnq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*04
+https://s26.upstreamcdn.co/hls/w47rygpsonbnx2nroydkav77brhk4jimpagwrttn4wsso5zqdc2dugocmt4a/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*05
+https://s18.upstreamcdn.co/hls/w47ryghsonbnx2nroydkaw5tbayu2xpdpch7bkceqjp72iycmywg6jdjxsya/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*06
+https://s97.upstreamcdn.co/hls/w47ryhhsonbnx2nroydkabfzi4qdqvpzivn2nziooaaskoeyldkpr6hbt2sq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*07
+https://s93.upstreamcdn.co/hls/w47ryaxsonbnx2nroydkabfmbufnwfdjkgh3vo7metgoieb2hpuyxusnapaq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*08
+https://s64.upstreamcdn.co/hls/w47ryfyru5bnx2nro3sk4qxyb4fkqrzuqimt4jcut5obdq4swva2uneobhya/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*09
+https://s29.upstreamcdn.co/hls/w47rybpsonbnx2nroydkar55bmuozzydsyfmdpabsuftxd2kmxxyk4iqeiia/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*10
+https://s21.upstreamcdn.co/hls/w47ryvpsonbnx2nroydkaqh5k3gfh6tzdw4fywuk5exrit2o3pmiflkogyuq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*11
+https://s88.upstreamcdn.co/hls/w47rysxsonbnx2nroydkabvpjquaae64rzyfwwioalqyhuzh4s3xhvgrc4ma/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*12
+https://s96.upstreamcdn.co/hls/w47ry4xsonbnx2nroydkaqvmjkalj6xmycmpfotntch5ub6atounkyrsvkrq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 1*13
+https://s88.upstreamcdn.co/hls/w47rznpsonbnx2nroydkaqh3lpn4j57v6c74jh7s442ftbqlzke4oovbns6a/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*01
+https://s97.upstreamcdn.co/hls/w47ry5hsonbnx2nroydkaqvhjoxsy2nobwze662phi5urrjxnctu7k4inxfq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*02
+https://s62.upstreamcdn.co/hls/w47ry67sonbnx2nroydkav5nl2qqkceca2uyt5jow2ycvafwbjqq3767adua/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*03
+https://s99.upstreamcdn.co/hls/w47ry6psonbnx2nroydkaw5ylm4kwmxcxbux4yjh5esv5p7qfrvcrwdhefxq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*04
+https://s97.upstreamcdn.co/hls/w47ry27sonbnx2nroydkavp6ld7lj6v7wil7yk7cu3wx7i4uv4pdtjmlbkia/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*05
+https://s71.upstreamcdn.co/hls/w47ryypsonbnx2nroydkaqp5iy277qsnrt325lymbwsxsnfpfec7b2ywpxea/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*06
+https://s95.upstreamcdn.co/hls/w47ryrxsonbnx2nroydkabv7jsq72ciooprdorlmdkgeokcsvcovcr27vwsa/index-v1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*07
+https://s92.upstreamcdn.co/hls/w47rzmxsonbnx2nroydkaux5ju2bpvkoa7jqs2nylq7qn3mhkawuwypgl2ya/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*08
+https://s71.upstreamcdn.co/hls/w47rznxsonbnx2nroydkawn3azlejuh4tuoxcaa4ontc6gy4u34mtelsub4q/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*09
+https://stream-7236-107-113.pvdcdn.co/gqod6qe6jiikkfn2mc7723i5guq3wbnkdsup3osnthzivskgvn6xkrbfuu/v.mp4
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*10
+https://s96.upstreamcdn.co/hls/w47rzexsonbnx2nroydkauvaj6oduglgvkt23w4tzi2bxfgavf67dqkztyga/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*11
+https://stream-7236-107-113.pvdcdn.co/g4ody346jiikkfn2mc7723apnxkdqzwpnwr3g3f25entz4apk6dqnmesci/v.mp4
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*12
+https://s71.upstreamcdn.co/hls/w47rzjxsonbnx2nroydkaq53bmv4eltvb4rhv22j4pqwmv4e2o7qwmqecvwq/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0o-EVYXkknz15SnElZpmFSxqCdhvb7f52-Wf3MHctMB-54D3Ug1JYJDr&s" group-title="SERIES MARVEL DAREDEVIL 2015" ,Daredevil 2*13
+https://s87.upstreamcdn.co/hls/w47rzd7sonbnx2nroydkawnzjicogsnfbfkgojj4itgrlvkvuplh3sbz7mpa/index-v1-a1.m3u8
